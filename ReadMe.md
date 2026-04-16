@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zahid%20Azmy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%7C%20Security%20Researcher%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Zahid%20Azmy&fontSize=42&fontColor=00ff41&animation=twinkling&fontAlignY=32&desc=Ethical%20Hacker%20%7C%20Security%20Researcher%20%7C%20Penetration%20Tester&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=AI-Powered+App+Developer+%F0%9F%A4%96;Android+%2B+TensorFlow+Lite+Builder+%F0%9F%93%B1;NFC+%26+IoT+Enthusiast+%F0%9F%94%8C;Ethical+Hacker+in+Training+%F0%9F%94%90;Night+Owl+Coder+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%26+Penetration+Tester+%F0%9F%94%93;Malware+Analyst+%26+Reverse+Engineer+%F0%9F%A6%A0;Network+Security+%26+OSINT+Researcher+%F0%9F%95%B5%EF%B8%8F;Red+Team+Operator+in+Training+%F0%9F%9F%A5;CTF+Player+%7C+Bug+Hunter+%F0%9F%90%9B)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,14 +16,15 @@
 
 ## 👋 About Me
 
-Hey! I'm **Zahid** — a developer who lives at the intersection of AI, security, and mobile tech. I build things that solve real problems, break things to understand them better, and occasionally question why I started coding at 2 AM again.
+Hey! I'm **Zahid** — a security researcher who lives at the intersection of offensive security, malware analysis, and threat intelligence. I break things to understand how they work, build tools to automate attacks responsibly, and hunt vulnerabilities before the bad guys do.
 
 ```python
 zahid = {
-    "focus"    : ["AI/ML", "Android Dev", "Web Security", "NFC Systems"],
-    "learning" : ["Deep Learning", "Blockchain", "Ethical Hacking"],
-    "ask_me"   : ["NFC + Python", "Laravel + WhatsApp API", "AI Deployment"],
-    "fun_fact" : "Best ideas strike after midnight 🌙"
+    "role"      : "Ethical Hacker & Security Researcher",
+    "focus"     : ["Penetration Testing", "Malware Analysis", "OSINT", "Red Teaming"],
+    "learning"  : ["Reverse Engineering", "Exploit Development", "Threat Hunting"],
+    "ask_me"    : ["Python Security Tools", "Network Recon", "CTF Challenges"],
+    "motto"     : "To defend a system, you must first know how to break it 🔓"
 }
 ```
 
@@ -34,23 +35,23 @@ zahid = {
 <table>
   <tr>
     <td>🔭 <b>Building</b></td>
-    <td>AI apps (Palm Oil Detection, object recognition, NFC systems), Laravel platforms & Android + TFLite integrations</td>
+    <td>Custom security tools — keyloggers, network sniffers, OSINT frameworks & automated recon scripts</td>
   </tr>
   <tr>
-    <td>👯 <b>Collaborating on</b></td>
-    <td>AI/ML projects, Android dev, NFC solutions, web app security research & automation tools</td>
+    <td>🎯 <b>Researching</b></td>
+    <td>Malware behavior analysis, post-exploitation techniques, and vulnerability research</td>
   </tr>
   <tr>
     <td>🌱 <b>Learning</b></td>
-    <td>Deep learning, blockchain, ethical hacking & real-time object detection on Android</td>
+    <td>Exploit development, binary reverse engineering, Active Directory attacks & red team ops</td>
   </tr>
   <tr>
-    <td>🤝 <b>Need help with</b></td>
-    <td>Optimizing large-scale databases & boosting real-time AI detection performance</td>
+    <td>🏁 <b>Playing</b></td>
+    <td>CTF competitions — web exploitation, pwn, forensics & crypto challenges</td>
   </tr>
   <tr>
     <td>🌙 <b>Fun fact</b></td>
-    <td>Daytime noise is my arch-nemesis — my best code is written when the world is quiet</td>
+    <td>The best exploits are found at 2 AM when the world sleeps and the terminal glows green</td>
   </tr>
 </table>
 
@@ -58,39 +59,46 @@ zahid = {
 
 ## 🛠 Tech Stack
 
-**Web & Backend**
+**Offensive Security & Pentesting**
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Cloud & Deployment**
+**Programming & Scripting**
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Networking & Infrastructure**
+
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-214A85?style=for-the-badge&logo=nmap&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+**OSINT & Recon**
+
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![TheHarvester](https://img.shields.io/badge/TheHarvester-black?style=for-the-badge&logo=gnu&logoColor=white)
+
+**Malware Analysis & Reverse Engineering**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-C44B27?style=for-the-badge&logo=nsa&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-44475a?style=for-the-badge&logo=windows&logoColor=white)
+
+**Virtualization & Labs**
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**AI / Machine Learning**
+**Web Security**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Hardware & Networking**
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-**Tools**
-
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
@@ -99,11 +107,11 @@ zahid = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ForwardEcho&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ForwardEcho&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ForwardEcho&theme=blue-green&hide_border=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=ForwardEcho&theme=chartreuse-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardEcho&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardEcho&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -113,7 +121,7 @@ zahid = {
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ForwardEcho&limit=5&theme=holi&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=ForwardEcho&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -128,8 +136,8 @@ zahid = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ForwardEcho&style=flat-square&color=00C9A7&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ForwardEcho&style=flat-square&color=00FF41&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 
 </div>
