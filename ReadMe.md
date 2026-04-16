@@ -35,7 +35,7 @@ zahid = {
 <table>
   <tr>
     <td>🔭 <b>Building</b></td>
-    <td>Custom security tools - keyloggers, network sniffers, OSINT frameworks & automated recon scripts</td>
+    <td>Custom security tools — keyloggers, network sniffers, OSINT frameworks & automated recon scripts</td>
   </tr>
   <tr>
     <td>🎯 <b>Researching</b></td>
@@ -47,7 +47,7 @@ zahid = {
   </tr>
   <tr>
     <td>🏁 <b>Playing</b></td>
-    <td>CTF competitions - web exploitation, pwn, forensics & crypto challenges</td>
+    <td>CTF competitions — web exploitation, pwn, forensics & crypto challenges</td>
   </tr>
   <tr>
     <td>🌙 <b>Fun fact</b></td>
@@ -109,7 +109,7 @@ zahid = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ForwardEcho&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ForwardEcho&theme=chartreuse-dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=ForwardEcho&theme=chartreuse-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardEcho&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
@@ -117,11 +117,11 @@ zahid = {
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 Activity Graph
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=ForwardEcho&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ForwardEcho&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=ffffff)
 
 </div>
 
