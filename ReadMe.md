@@ -35,7 +35,7 @@ zahid = {
 <table>
   <tr>
     <td>🔭 <b>Building</b></td>
-    <td>Custom security tools — keyloggers, network sniffers, OSINT frameworks & automated recon scripts</td>
+    <td>Custom security tools - keyloggers, network sniffers, OSINT frameworks & automated recon scripts</td>
   </tr>
   <tr>
     <td>🎯 <b>Researching</b></td>
@@ -47,7 +47,7 @@ zahid = {
   </tr>
   <tr>
     <td>🏁 <b>Playing</b></td>
-    <td>CTF competitions — web exploitation, pwn, forensics & crypto challenges</td>
+    <td>CTF competitions - web exploitation, pwn, forensics & crypto challenges</td>
   </tr>
   <tr>
     <td>🌙 <b>Fun fact</b></td>
