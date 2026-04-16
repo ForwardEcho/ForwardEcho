@@ -128,7 +128,7 @@ zahid = {
 
 <br/>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=ForwardEcho&icon=5&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=ForwardEcho&style=flat-square&color=00C9A7&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
